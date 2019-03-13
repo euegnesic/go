@@ -1,2 +1,5 @@
-print("Hello world");
+<<<<<<< HEAD
+print("Hello world;")
 hello;
+hi my dear friend;
+nice to meet u;
